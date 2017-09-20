@@ -7,3 +7,5 @@ ocserv.conf		openconnect 配置文件
 v4, v6			iptables 配置文件
 
 sysctl.conf		内核配置文件
+
+现在的配置文件还比较粗糙，欢迎补充!
